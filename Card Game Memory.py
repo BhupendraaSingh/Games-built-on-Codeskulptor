@@ -1,4 +1,3 @@
- implementation of card game - Memory
 # This is Card Memory game is developed by :- Bhupendra Singh Gurjar
 
 import simplegui
